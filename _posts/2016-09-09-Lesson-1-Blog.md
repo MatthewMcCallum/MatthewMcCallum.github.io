@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Today the most effective way of learning was note taking and trying to get the work done just as it's shown so that you can remember more and then if you forget you can check your notes to see what you need to do.</td>
+    <td>Today the most effective way of learning was note taking and trying to get the work done just as it's shown so that you can remember more and then if you forget you can check your notes to see what you need to do. When I took notes I was effective and more productive in my work. I as lls had to listen very carefully to make sure I had the right notes and did the right things. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Remembering all of the stages so that I won’t take as long publishing, taking longer, more specific and better notes so that I know what to do at every stage of my project and my learning.</td>
+    <td>Remembering all of the stages so that I won’t take as long publishing, taking longer, more specific and better notes so that I know what to do at every stage of my project and my learning. I should take my time and not try to rush my work because I will make mistakes and then have to do my work again. If I take my time I will be quicker and more productive. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Remembering stages as it means I can be more self-reliant and more efficient in my work. I will take better notes and also listen more attentively so that I get all the information for my notes so that I can get more work done.</td>
+    <td>Remembering stages as it means I can be more self-reliant and more efficient in my work. I will take better notes and also listen more attentively so that I get all the information for my notes so that I can get more work done. Next lesson I will take my time so not to make any mistakes. I will be productive with my time and not waste time</td>
   </tr>
 </table>
 
