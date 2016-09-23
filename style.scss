@@ -18,7 +18,8 @@ html {
 }table, th, td {
    border: 1px solid black;
 }
-
+  background: linear-gradient(to bottom right, red, yellow); 
+}
 
 body {
 	background: orange;
@@ -126,8 +127,6 @@ th{
 	background #f2f2f2;
 }
 
-background: linear-gradient(to right, red , yellow);
-}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
