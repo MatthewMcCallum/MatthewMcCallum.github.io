@@ -20,11 +20,13 @@ html {
 }
 
 body {
-	background: orange;
-  font: 18px/1.4 $helvetica;
-  color: #9933ff;
+        font: 18px/1.4 $helvetica;
+  color: #E9E9E9
+    background-image: url("http://7-themes.com/data_images/out/18/6828217-grass-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
-
 .container {
   margin: 0 auto;
   max-width: 740px;
